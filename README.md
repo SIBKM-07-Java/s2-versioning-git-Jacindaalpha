@@ -2,8 +2,9 @@
 
 Berikut merupakan penjelasan dari penyelesaian tugas1. 
 
-* Skenario Fast-Forward Merge :
+# * Skenario Fast-Forward Merge :
 Project tugas1 versioning menggunakan cara seperti berikut
+
 Pertama-tama, membuat direktori baru untuk project seperti ini
    <img width="911" alt="Tangkapan Layar 2024-09-30 pukul 21 32 34" src="https://github.com/user-attachments/assets/d9ab089c-6894-453a-be85-a7468f05390c">
 Setelah itu inisialisasi repository Git menggunakan git init. Buat file baru menggunakan format .html.
